@@ -6,11 +6,11 @@
  <body>
  <div class="navigation">
 	{% for stranka in site.pages %}
-	[ {{ stranka.title }} ]( {{ stranka.url }} )
+	<a href="{{stranka.url}}">{{stranka.title}}</a>
 	{% endfor %}
  </div>
 
- <h1> Uz sa prejavila zmena stvrta zmena</h1>
+ <h1> Uz sa prejavila zmena piata zmena</h1>
  
 {{ content }}
 
