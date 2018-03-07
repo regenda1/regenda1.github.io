@@ -6,11 +6,13 @@
  <body>
  <div class="navigation">
 	<a href=" {{ ../index.md | relative_url }} ">Home</a>
-	<a href=" {{ ../about.md | absolute_url_url }} ">Hobby</a>
+	<a href=" {{ ../about.md | absolute_url }} ">Hobby</a>
 	<a href="../carrier.md">Carrier</a>
 	<a href="WP.md">WP</a>
  </div>
 
+ Hej preco nejdes na tom githube???
+ 
 {{ content }}
 
 
