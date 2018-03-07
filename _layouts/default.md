@@ -5,14 +5,12 @@
   
  <body>
  <div class="navigation">
-	<a href=" {{ ../index.md | relative_url }} ">Home</a>
-	<a href=" {{ ../about.md | absolute_url }} ">Hobby</a>
-	<a href="../carrier.md">Carrier</a>
-	<a href="WP.md">WP</a>
+	<a href="/index/">Home</a>
+	<a href="/about/">Hobby</a>
+	<a href="/carrier/">Carrier</a>
+	<a href="/wp/">WP</a>
  </div>
 
- Hej preco nejdes na tom githube???
- 
 {{ content }}
 
 
