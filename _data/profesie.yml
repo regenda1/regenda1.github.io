@@ -1,0 +1,14 @@
+- typ: "praca"
+  nazov: "elitsoft"
+  datum: "2015"
+  napln: "Unity 3D, web"
+ 
+- typ : "praca"
+  nazov : "druzstvo"
+  datum : "2014"
+  napln : "okopavanie, trhanie vrskov kukurice"
+
+- typ : "projekt"
+  nazov : "Vyuzitie virtualnej reality vo vzdelavani"
+  datum : "2017"
+  napln : "virtualna realita, Unity 3D"

@@ -1,29 +1,27 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-		</head>
-		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
-			<div class="container">
+<html>
+  <head>
+  	<link rel="stylesheet" type="text/css" href={{ "/css/template.css" | absolute_url }}>
+  </head>
+  
+ <body>
+ <div class="navigation">
+	<a href="/index/">Home</a>
+	<a href="/about/">Hobby</a>
+	<a href="/carrier/">Carrier</a>
+	<a href="/wp/">WP</a>
+ </div>
 
-			{{ content }}
+{{ content }}
 
-			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-				</ul>
-			</footer>
-		</body>
-	</html>
+
+
+
+ <div class="footer" markdown="1">
+
+	Pocet slov na stranke: {{ page.content | number_of_words }}
+	
+</div>
+ </body>
+</html>
+
+
