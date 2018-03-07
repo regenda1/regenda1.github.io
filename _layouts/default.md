@@ -11,6 +11,8 @@
 	<a href="../WP.md ">WP</a>
  </div>
 
+ <h1> Uz sa prejavila zmena </h1>
+ 
 {{ content }}
 
 
