@@ -5,10 +5,9 @@
   
  <body>
  <div class="navigation">
-	<a href=" {{ "index.md" | relative_url}} ">Home</a>
-	<a href=" {{ "about.md" | absolute_url}} ">Hobby</a>
-	<a href="Carrier.md">Carrier</a>
-	<a href="../WP.md ">WP</a>
+	{% for stranka in site.pages %}
+	[ {{ page.title }} ]( {{ page.url}} )
+	{% endfor %}
  </div>
 
  <h1> Uz sa prejavila zmena druha zmena</h1>
