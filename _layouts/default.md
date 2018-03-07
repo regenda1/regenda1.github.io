@@ -10,7 +10,7 @@
 	{% endfor %}
  </div>
 
- <h1> Uz sa prejavila zmena druha zmena</h1>
+ <h1> Uz sa prejavila zmena tretia zmena</h1>
  
 {{ content }}
 
