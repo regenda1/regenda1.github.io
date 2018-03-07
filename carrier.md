@@ -2,6 +2,7 @@
 layout: page
 permalink: carrier
 title: "Kariera"
+poradie: 3
 ---
 <div style="font-size: 24px">
 {% for job in site.data.profesie %}

@@ -4,6 +4,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 title: "Domov"
+poradie: 1
 ---
 <style type="text/css">
 img {

@@ -3,6 +3,7 @@ layout: page
 title: "O mojich zaujmoch"
 permalink: /about/
 title: "Zaujmy"
+poradie: 4
 ---
 
 # Clanky o zaujmoch: 

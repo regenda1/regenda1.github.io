@@ -2,6 +2,7 @@
 layout: page
 permalink: wp
 title: "WP"
+poradie: 2
 ---
 
 Mojim nultym projektom bolo naucit sa jekyll. Pomohli mi tieto tutorialy:
