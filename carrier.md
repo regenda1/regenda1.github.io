@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: carrier
-title: "Moje pracovne skusenosti"
+title: "Kariera"
 ---
 <div style="font-size: 24px">
 {% for job in site.data.profesie %}
