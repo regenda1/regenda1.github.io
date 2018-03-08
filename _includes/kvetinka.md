@@ -5,4 +5,7 @@ width: 500px;
 </style>
 
 ![Slniecko]( {{ "../img/kvetinka.jpg" | relative_url }} )
-##  _Citat: ked prsi, rastu kvetinky_
+
+###Dokonalosť sa nedosahuje vtedy, keď už nie je možné nič dodať, ale vtedy, keď nie je možné nič odobrať. 
+
+#### _Antoine de Saint-Exupéry_
