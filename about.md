@@ -2,7 +2,7 @@
 layout: page
 title: "O mojich zaujmoch"
 permalink: /about/
-title: "Zaujmy"
+title: "Záujmy"
 poradie: 4
 ---
 
