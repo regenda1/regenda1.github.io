@@ -18,5 +18,9 @@ title: "Toto je kusok o mne..."
 <hr />
 <h3> Vyborne tutorialy na jekyll: </h3>
 
+{% raw %}
+{% youtube youtube.com/watch?v=iNZBEki_x6o&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=16 width height %}
+{% endraw %}
+
 
 
