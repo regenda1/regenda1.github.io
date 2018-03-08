@@ -24,7 +24,7 @@ height: 30px;
 margin-top: 10%;
 }
 
-.footer ul{
+.footer ul li{
 	dislplay: inline;
 	color: white;
 	font-size: 16px;
