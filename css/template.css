@@ -31,11 +31,15 @@ margin-top: 10%;
 	list-style-type: none;
 }
 
-.footer li, .footer li a{
+.footer li {
 	margin-left: 20px;
 	margin-top: 10px;
 	border-right-width: 2px;
 	border-right-color: white;
+}
+
+.footer a{
+	color: white;
 }
 
 h1{
