@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: wp
+permalink: /wp/
 title: "WP"
 poradie: 2
 ---

@@ -6,6 +6,6 @@ width: 500px;
 
 ![Slniecko]( {{ "../img/kvetinka.jpg" | relative_url }} )
 
-###Dokonalosť sa nedosahuje vtedy, keď už nie je možné nič dodať, ale vtedy, keď nie je možné nič odobrať. 
+### Dokonalosť sa nedosahuje vtedy, keď už nie je možné nič dodať, ale vtedy, keď nie je možné nič odobrať. 
 
 #### _Antoine de Saint-Exupéry_
