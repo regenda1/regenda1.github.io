@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: carrier
-title: "Kariera"
+title: "Kariéra"
 poradie: 3
 ---
 <div style="font-size: 24px">

@@ -13,6 +13,8 @@ title: "Zaujimavosti"
 {% capture sunny %}{% include kvetinka.md %}{% endcapture %}
 {{ sunny | markdownify }}
 
+<hr />
 
+<img src=" {{ page.obrazok }} ">
 
 
