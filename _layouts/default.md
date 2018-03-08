@@ -6,12 +6,11 @@
  <body>
  <div class="navigation">
      {% assign menu = site.pages | sort: 'poradie' %}
-	{% for stranka in menu %}
+	 {% for stranka in menu %}
 	<a href="{{stranka.url}}">{{stranka.title}}</a>
 	{% endfor %}
  </div>
 
- <h1> Uz sa prejavila zmena siesta zmena</h1>
  
 {{ content }}
 
