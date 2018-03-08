@@ -24,6 +24,12 @@ height: 30px;
 margin-top: 10%;
 }
 
+.footer ul{
+	dislplay: block;
+	color: white;
+	font-size: 16px;
+}
+
 h1{
 	color: DarkSlateGrey;
 }

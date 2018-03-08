@@ -19,7 +19,11 @@
 
  <div class="footer" markdown="1">
 
-	Pocet slov na stranke: {{ page.content | number_of_words }}
+ <ul>
+	<li> Pocet slov na stranke: {{ page.content | number_of_words }} </li>
+	<li>  Kontakt </li>
+</ul>
+	
 	
 </div>
  </body>
