@@ -15,6 +15,6 @@ title: "Zaujimavosti"
 
 <hr />
 
-<img src=" {{ "page.obrazok" | relative_url }} ">
+<img src= {{ page.obrazok | relative_url }} >
 
 
