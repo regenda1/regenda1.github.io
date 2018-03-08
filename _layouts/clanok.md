@@ -15,6 +15,6 @@ title: "Zaujimavosti"
 
 <hr />
 
-<img src=" {{ page.obrazok }} ">
+<img src="../img/slniecko.jpg">
 
 
