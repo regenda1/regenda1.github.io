@@ -21,7 +21,7 @@
 
  <ul>
 	<li> Pocet slov na stranke: {{ page.content | number_of_words }} </li>
-	<li>  Kontakt </li>
+	<li>  <a href="http://is.stuba.sk/">Kontakt</a> </li>
 </ul>
 	
 	

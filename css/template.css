@@ -31,6 +31,13 @@ margin-top: 10%;
 	list-style-type: none;
 }
 
+.footer li, .footer li a{
+	margin-left: 20px;
+	margin-top: 10px;
+	border-right-width: 2px;
+	border-right-color: white;
+}
+
 h1{
 	color: DarkSlateGrey;
 }
