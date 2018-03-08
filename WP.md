@@ -5,10 +5,6 @@ title: "WP"
 poradie: 2
 ---
 
-Mojim nultym projektom bolo naucit sa jekyll. Pomohli mi tieto tutorialy:
-
-
-
 # Moje dalsie projekty:
 
 {% for post in site.posts %}
