@@ -15,7 +15,6 @@ title: "Zaujimavosti"
 
 <hr />
 
-![Slniecko]( {{ "../img/slniecko.jpg" | relative_url }} )
-<img src=" {{ "../img/slniecko.jpg" | relative_url }} ">
-<img src={{ "../img/slniecko.jpg" | relative_url }}>
+<img src=" {{ "page.obrazok" | relative_url }} ">
+<img src={{ page.obrazok | relative_url }}>
 
