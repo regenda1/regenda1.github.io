@@ -6,7 +6,7 @@ title: "Záujmy"
 poradie: 4
 ---
 
-# Clanky o zaujmoch: 
+# Články o záujmoch: 
 
 {% for post in site.posts %}
 {% if post.categories contains "hobby" %}

@@ -5,7 +5,7 @@ title: "WP"
 poradie: 2
 ---
 
-# Moje dalsie projekty:
+# Moje projekty:
 
 {% for post in site.posts %}
 {% if post.categories contains "projekt" %}

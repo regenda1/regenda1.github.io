@@ -13,11 +13,12 @@ poradie: 3
 {% endfor %}
 </div>
 
-# **Tu je moj najnovsi projekt** [ Webove publikovanie ]({{ "/wp/" | relative_url }})
+# **Tu je môj najnovší projekt** [ Webove publikovanie ]({{ "/wp/" | relative_url }})
 
-### Co ma bavi na informatike ...
+### Čo ma baví na informatike
 
-Najviac ma bavi vytvaranie a navrhovanie vlastnych programov. Tiez ma bavi programovanie a matematika. Toto je moj oblubeny kod: 
+Najviac ma baví vytváranie a navrhovanie vlastných programov. Tiež ma baví programovanie a matematika. Toto je ukážka programovacieho
+jazyka java: 
 
 {% highlight java %}
 public class HelloWorld {
