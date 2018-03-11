@@ -13,7 +13,7 @@ poradie: 3
 {% endfor %}
 </div>
 
-# **Tu je môj najnovší projekt** [ Webove publikovanie ]({{ "/wp/" | relative_url }})
+# **Tu je môj najnovší projekt** [ Webové publikovanie ]({{ "/wp/" | relative_url }})
 
 ### Čo ma baví na informatike
 
