@@ -13,5 +13,4 @@ poradie: 2
 {% endif %}
 {% endfor %}
 
-## Projekt 2
 ## Projekt 3
